@@ -14,8 +14,8 @@ import org.biojava.bio.structure.Group;
 import org.biojava.bio.structure.ResidueNumber;
 import org.biojava.bio.structure.StructureException;
 
-public class PocketLiningHelper {
-	public static PocketLiningData aggregatePocketLiningData(
+public class StructurePocketLinker {
+	public static PocketLiningData link(
 			ProteinStructure proteinStructure,
 			PocketStructure pocketStructure,
 			double pocketRadius,
