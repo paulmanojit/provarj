@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import biojavatest.ProteinStructure;
+import uk.ac.bbk.provarj.ProteinStructure;
 import org.biojava.bio.structure.AminoAcid;
 import org.biojava.bio.structure.Atom;
 import org.biojava.bio.structure.Calc;

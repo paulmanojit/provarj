@@ -1,9 +1,10 @@
-package biojavatest;
+package uk.ac.bbk.provarj.alignment;
 
 import org.biojava.bio.structure.Structure;
 import org.biojava.bio.structure.io.PDBFileReader;
 import org.biojava3.core.sequence.ProteinSequence;
 import org.biojava3.core.sequence.io.FastaReaderHelper;
+import uk.ac.bbk.provarj.ProteinStructure;
 
 import java.io.File;
 import java.io.IOException;

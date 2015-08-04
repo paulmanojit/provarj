@@ -1,4 +1,4 @@
-package biojavatest;
+package uk.ac.bbk.provarj;
 
 import java.util.ArrayList;
 import java.util.Collections;

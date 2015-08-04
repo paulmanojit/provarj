@@ -1,4 +1,4 @@
-package biojavatest;
+package uk.ac.bbk.provarj.alignment;
 
 public class AlignmentReferenceItem {
 	private int pdbResidueNumber;

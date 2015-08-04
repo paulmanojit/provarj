@@ -1,10 +1,11 @@
-package biojavatest;
+package uk.ac.bbk.provarj.alignment;
 
 import java.util.LinkedHashMap;
 import java.util.List;
 
 import org.biojava.bio.structure.Chain;
 import org.biojava3.core.sequence.ProteinSequence;
+import uk.ac.bbk.provarj.ProteinStructure;
 
 public class AlignedProteinSequences {
 	private LinkedHashMap<String, ProteinSequence> proteinSequences = null;

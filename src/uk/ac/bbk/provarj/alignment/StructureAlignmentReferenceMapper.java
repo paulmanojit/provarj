@@ -1,4 +1,4 @@
-package biojavatest;
+package uk.ac.bbk.provarj.alignment;
 
 import java.util.List;
 
@@ -7,6 +7,7 @@ import org.biojava.bio.structure.Chain;
 import org.biojava.bio.structure.Group;
 import org.biojava.bio.structure.ResidueNumber;
 import org.biojava3.core.sequence.ProteinSequence;
+import uk.ac.bbk.provarj.ProteinStructure;
 
 public class StructureAlignmentReferenceMapper {
 	public static AlignmentReferences map(ProteinStructure proteinStructure, ProteinSequence alignment) {
