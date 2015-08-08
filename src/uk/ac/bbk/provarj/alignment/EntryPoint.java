@@ -31,7 +31,6 @@ public class EntryPoint {
 		try {
 	        proteinSequences = FastaReaderHelper.readFastaProteinSequence(new File("/Birkbeck/Project/Provar_v4/example2_homologues/Mustang_alignment_apo_holo_receptor.fasta"));
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
